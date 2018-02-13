@@ -1,0 +1,6 @@
+team = input("Enter an NFL football team (including city): ")
+if team == 'Philadelphia Eagles':
+    print("The", team, "are 2018 Super Bowl Champions")
+else:
+    print("The", team, "are not 2018 Super Bowl Champions")
+print("Fly Eagles Fly!")
